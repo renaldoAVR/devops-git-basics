@@ -1,0 +1,17 @@
+Summary of commands used in this specific project:
+
+mkdir devops-git-basics
+cd devops-git-basics/
+git init
+echo "Hi, I'm Renaldo. I work in healthcare IT and love DevOps." > README.md
+echo "v1.0.0" > version.txt
+git add .
+git commit -m "Initial commit with bio and version 1.0.0"
+git remote add origin https://github.com/renaldoAVR/devops-git-basics.git
+git remote -v
+git push origin main
+echo "v1.0.1" > version.txt
+git add version.txt
+git commit -m "version updated to 1.0.1"
+git push origin main
+git log --oneline
