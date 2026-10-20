@@ -1,0 +1,152 @@
+    1  git--version
+    2  git --version
+    3  git config --global user.name 'Renaldo'
+    4  git config --global user.email 'renaldoavr@gmail.com'
+    5  git init
+    6  Learning Devops
+    7  cd 
+    8  cd Learning Devops Crash
+    9  
+   10  cd "Learning Devops Crash"
+   11  cd desktop
+   12  cd Desktop
+   13  pwd
+   14  ls
+   15  cd Desktop
+   16  [200~cd /c/Users/<YourUsername>/Desktop
+   17  cd /c/Users/Renaldo/Desktop
+   18  cd desktop
+   19  [200~git log --reverse
+   20  ~git log --reverse
+   21  git version
+   22  git log --reverse
+   23  git add .
+   24  cd "/c/Users/Renaldo/Desktop/Learning Devops Crash"
+   25  rm -rf .git
+   26  git init
+   27  git add .
+   28  git status
+   29  cd "/c/Users/Renaldo/Desktop/Learning Devops Crash"
+   30  ls "/c/Users/Renaldo/Desktop"
+   31  cd "C:\Users\Renaldo\OneDrive\Desktop\Learning Devops Crash"
+   32  rm -rf .git
+   33  git init
+   34  git add .
+   35  git commit -m "Initial commit"
+   36  git desktop
+   37  cd Desktop
+   38  cd OneDrive
+   39   cd "C:\Users\Renaldo\OneDrive\Desktop\Learning Devops Crash"
+   40  git
+   41  ls
+   42  clear
+   43  git clone [200~https://github.com/renaldoAVR/demo_repo.git~
+   44  cd /documents/EMC_devOps
+   45  cd /documents
+   46  cd documents
+   47  ls
+   48  cd ~
+   49  cls
+   50  ls
+   51  cd OneDrive
+   52  ls
+   53  cd Documents
+   54  ls
+   55  cd EMC_DevOps
+   56  realpath
+   57  pwd
+   58  reset
+   59  git clone  https://github.com/renaldoAVR/demo_repo.git
+   60  git clonene https://github.com/renaldoAVR/demo_repo.git
+   61  git clone https://github.com/renaldoAVR/demo_repo.git
+   62  ls
+   63  ls
+   64  cd demo_repo/
+   65  ls
+   66  git branch
+   67  cd ..
+   68  git branch
+   69  git branch
+   70  ls
+   71  cd localrepo
+   72  cd local_repo
+   73  git config --global init.defaultBranch
+   74  git config --list --show-origin
+   75  git branch
+   76  git init
+   77  git branch
+   78  ls -a
+   79  clear
+   80  cd ..
+   81  ls
+   82  cd demo_repo
+   83  ls
+   84  touch sample.txt
+   85  git status
+   86  git add sample.txt
+   87  git status
+   88  git commit -m "sample file added"
+   89  git status
+   90  pwd
+   91  cd html_devops
+   92  cd html_minicourse
+   93  git status
+   94  git add .
+   95  git commit -m "New index file created"
+   96  git remote -v
+   97  git push origin main
+   98  it status
+   99  git status
+  100  git add .
+  101  git status
+  102  git commit -m "page coded"
+  103  git push origin main
+  104  git status
+  105  git add .
+  106  git commit -m "style file added"
+  107  git push origin main
+  108  git add .
+  109  git commit -m "html edited"
+  110  git push origin main
+  111  git pull
+  112  git
+  113  git status
+  114  git add .
+  115  git commit -m "modification"
+  116  git push origin main
+  117  git status
+  118  git cd ..
+  119  cd ..
+  120  cd demo_repo
+  121  git status
+  122  git add .
+  123  git commit -m ".gitignore file created"
+  124  git push origin main
+  125  history
+  126  [200~git log --oneline
+  127  ~git log --oneline
+  128  git log --online
+  129  git log --online
+  130  git log --oneline
+  131  clear
+  132  cd ..
+  133  clear
+  134  mkdir devops-git-basics
+  135  cd devops-git-basics/
+  136  git init
+  137  echo "Hi, I'm Renaldo. I work in healthcare IT and love DevOps." > README.md
+  138  echo "v1.0.0" > version.txt
+  139  git add .
+  140  git commit -m "Initial commit with bio and version 1.0.0"
+  141  git remote add origin https://github.com/renaldoAVR/devops-git-basics.git
+  142  git remote -v
+  143  git push origin main
+  144  echo "v1.0.1" > version.txt
+  145  git add version.txt
+  146  git commit -m "version updated to 1.0.1"
+  147  git push origin main
+  148  git log --oneline
+  149  touch summary.txt
+  150  git add .
+  151  git commit -m "summary of commands used for this project"
+  152  history > git_history.txt
